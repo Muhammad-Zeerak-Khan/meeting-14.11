@@ -1,0 +1,15 @@
+The initial accuracy was : 0.7065217391304348
+
+The Optimized parameters are : 
+
+algorithm : ball_tree
+
+leaf_size : 20
+
+n_neighbors : 15
+
+p : 1
+
+weights : distance
+
+The final accuracy is : 0.7391304347826086

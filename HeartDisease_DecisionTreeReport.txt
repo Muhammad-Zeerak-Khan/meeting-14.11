@@ -1,0 +1,15 @@
+The initial accuracy was : 0.842391304347826
+
+The Optimized parameters are : 
+
+criterion : gini
+
+max_depth : 7
+
+min_samples_leaf : 5
+
+min_samples_split : 3
+
+splitter : random
+
+The final accuracy is : 0.8869576521739131
